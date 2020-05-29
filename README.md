@@ -12,6 +12,8 @@ https://www.youtube.com/watch?v=XdKMAU6fkOA&fbclid=IwAR2FPDZRO2Lb-vxyJWwpr8yrWNy
 Second version Youtube link(music and font color changed for better looks):
 https://www.youtube.com/watch?v=JZVmiJPoSFY&fbclid=IwAR3si3X7tCuQjcAPMPeK2QuhgZlFMfm_UDfDLPhr195A7Z6mniH--v6nTEY
 
+After that I only put one more link on navbar. Link to github repository.
+
 Cro version:
 Poštovani čitatelju/ice predstavljam ti svoj projekt iz XML programiranja.
 
@@ -27,3 +29,5 @@ https://www.youtube.com/watch?v=XdKMAU6fkOA&fbclid=IwAR2FPDZRO2Lb-vxyJWwpr8yrWNy
 
 Druga verzija s bijelim slovima i dobrom muzikom(puno bolje izgleda):
 https://www.youtube.com/watch?v=JZVmiJPoSFY&fbclid=IwAR3si3X7tCuQjcAPMPeK2QuhgZlFMfm_UDfDLPhr195A7Z6mniH--v6nTEY
+
+Zadnje sam samo dodao još jedan link u navbar. Link za github.
