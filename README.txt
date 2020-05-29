@@ -13,4 +13,4 @@ https://www.youtube.com/watch?v=XdKMAU6fkOA&fbclid=IwAR2FPDZRO2Lb-vxyJWwpr8yrWNy
 Druga verzija s bijelim slovima i dobrom muzikom(puno bolje izgleda):
 https://www.youtube.com/watch?v=JZVmiJPoSFY&fbclid=IwAR3si3X7tCuQjcAPMPeK2QuhgZlFMfm_UDfDLPhr195A7Z6mniH--v6nTEY
 
-Github link: https://github.com/Tino-byte/ProjektXML
+Github link: https://github.com/Tino-byte/ProjektXML  +DODAN LINK U SAMU APLIKACIJU NA NAVBARU
